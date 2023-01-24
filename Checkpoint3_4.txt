@@ -1,0 +1,15 @@
+Which git command would you use to:
+
+View the history of the repository: git log
+
+
+
+If there are outstanding commits to do:
+
+Not sure what you mean here. If I want more files to be included in the next commit, I'll use git add. Then I can commit those files using git commit. Then I can push them to the remote repository using git push.
+
+
+
+Start a new repository
+
+git init
